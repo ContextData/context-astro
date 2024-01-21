@@ -1,1 +1,25 @@
 # Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
+boto3
+httpx
+langchain
+langsmith
+openai
+pinecone-client
+psycopg2-binary
+requests
+tiktoken
+mysql-connector-python
+pandas
+weaviate-client
+pymilvus
+qdrant-client
+singlestoredb
+azure-storage-blob
+google-cloud-storage
+snowflake-connector-python
+airbyte-source-salesforce
+pymysql
+unstructured
+unstructured[pdf]
+opencv-python
+opencv-contrib-python-headless
